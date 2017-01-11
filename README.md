@@ -4,3 +4,4 @@
 * Cellular automata written in C using CUDA
 * Toy algo of matrix multiplicitation, CUDA
 * Dummy python Discrete Fast Fourier Transform
+* KMeans on Crime-in-US dataset
