@@ -1,4 +1,4 @@
-# Tasks for short and dummy CUDA course and its illogical continuation.\
+# Tasks for short and dummy CUDA course and its illogical continuation.
 
 ### What's presented:
 * Cellular automata written in C using CUDA
